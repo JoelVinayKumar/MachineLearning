@@ -9,6 +9,6 @@ A repository of my course module submissions in Machine Learning
 ## How to run the python notebooks
 
 * Open `command prompt/terminal` from the folder
-*  `pip freeze requirements.txt`
+*  `pip freeze> requirements.txt`
 *  `pip install -r requirements.txt`
 *  `jupter notebook`
